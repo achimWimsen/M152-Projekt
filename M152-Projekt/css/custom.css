@@ -206,7 +206,8 @@ header .header-content .header-content-inner p {
 }
 
 .navbar-default .navbar-header .navbar-brand {
-    color: rgb(117, 12, 12);
+    height: 10%;
+    width: 10%;
 }
 
 .navbar-default .navbar-header .navbar-brand:hover,
