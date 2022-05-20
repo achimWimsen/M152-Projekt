@@ -25,11 +25,21 @@ nav .menu{
   padding: 0 20px;
 }
 .menu .logo a{
+  position: absolute;
+  height: 100px;
+  width: 100px;
   text-decoration: none;
-  color: #fff;
   font-size: 35px;
   font-weight: 600;
 }
+
+.menu img {
+    position: absolute;
+    left: 2%;
+    height:3em;
+    width: 5em;
+  }
+
 .menu ul{
   display: inline-flex;
 }
